@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//catalog/__init__.py=utf-8
+encoding//catalog/admin.py=utf-8
+encoding//catalog/apps.py=utf-8
+encoding//catalog/context_processors.py=utf-8
+encoding//catalog/migrations/0001_initial.py=utf-8
+encoding//catalog/migrations/__init__.py=utf-8
+encoding//catalog/models.py=utf-8
+encoding//catalog/tests/test_models.py=utf-8
+encoding//catalog/tests/test_views.py=utf-8
+encoding//catalog/views.py=utf-8
+encoding//core/models.py=utf-8
+encoding//core/views.py=utf-8
+encoding//djangoecommerce/local_settings.py=utf-8
